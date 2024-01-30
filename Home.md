@@ -66,7 +66,7 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 
 [diagram here]
 
-## Schedule, Assignments, Materials, Toolkits
+## Artifacts
 | Week      | Date | Seminar Materials | Assignments | Toolkit |
 | ----------- | ----------- | ----------- | ----------- |----------- |
 | 1      | Feb 10 2024   | Coming Soon! | Coming Soon! | [[ Week 1: Welcome ]] |
