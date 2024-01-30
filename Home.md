@@ -38,6 +38,10 @@ The available hours are on the fellowship [Google Calendar link](https://calenda
 
 ### Community Managers [CM]
 
+Your community managers will be present and organizing on Slack! They will play the following roles:
+* Pablo Velasquez & Felipe Costa will be monitoring the #technical channel for questions with a ~24 hr response turnaround time. They will also review and give feedback on some of your assignments!
+* Melissa Simplicio will be moderating most other channels include #general, #random, and more. She will also be checking in with the home groups to see how the dynamics and learning is progressing
+
 # Fellows
 
 ## Home Groups
