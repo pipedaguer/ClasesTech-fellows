@@ -24,6 +24,10 @@ Click into the individual sections to learn how to use each resource (contact an
 
 ### Psychosocial
 
+Our resident space holder is Debora Rebecchi. She will be offering at least 5 hours of psychosocial therapeutic support through office hours every week. You can schedule with her here at her Calendly link.
+
+Please note it is REQUIRED that you schedule an intake session with her before February 21st. But on an ongoing basis, we encourage you to use this support system often.
+
 ### Engineers in Residence [EIR]
 
 ### Community Managers [CM]
