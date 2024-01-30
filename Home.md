@@ -6,7 +6,7 @@ This is the source of truth for the entire program. Please consult this frequent
 
 # Helpful Links
 
-* Zoom Link
+* [Session Zoom Link]( https://us06web.zoom.us/j/3934576290?pwd=KytrekhMN1plR05WczJDY0xkcVllQT09)
 * Key Mindsets and Frameworks
 
 | Platform | What | Link |
@@ -52,6 +52,7 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 
 [diagram here]
 
+## Schedule, Assignments, Materials, Toolkits
 | Week      | Date | Seminar Materials | Assignments | Toolkit |
 | ----------- | ----------- | ----------- | ----------- |----------- |
 | 1      | Feb 10 2024   | Coming Soon! | Coming Soon! | [[ Week 1: Welcome ]] |
