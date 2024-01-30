@@ -4,19 +4,22 @@ This is a _living container_ for all the content, instructions, and methodology 
 
 This is the source of truth for the entire program. Please consult this frequently to look for updates to the syllabus, assignments, deadlines, access to new platforms, scheduling, and artifacts from the seminars. 
 
-# Helpful Links
+# Helpful Pages
 
-# Support
+Google Calendar
+Zoom Link
+
+## Support
 
 Click into the individual sections to learn how to use each resource (contact and scheduling).
 
-## Psychosocial
+### Psychosocial
 
-## Engineers in Residence [EIR]
+### Engineers in Residence [EIR]
 
-## Community Managers [CM]
+### Community Managers [CM]
 
-# People
+# Fellows
 
 ## Home Groups
 
@@ -33,15 +36,17 @@ Handbook
 
 # Your Team
 
-Maribel Corrales
-Debora Rebecchi
-Karen Sun
-Pablo Velasquez
-Felipe Costa
-Melissa 
-Scott Maher
-Oscar Peña
-Rodulfo Prieto
-Otto Fernandes
+* Maribel Corrales
+* Debora Rebecchi
+* Karen Sun
+* Pablo Velasquez
+* Felipe Costa
+* Melissa Simplicio
+* Scott Maher
+* Oscar Peña
+* Rodulfo Prieto
+* Otto Fernandes
+* Yineth Paola Rentería Martínez 
+* Daniel Uribe
 
 
