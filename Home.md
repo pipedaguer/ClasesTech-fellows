@@ -20,7 +20,7 @@ This is the source of truth for the entire program. Please consult this frequent
 
 ## Support
 
-Click into the individual sections to learn how to use each resource (contact and scheduling).
+Click into the individual sections to learn how to use each resource (availability and scheduling).
 
 ### Psychosocial
 
@@ -82,4 +82,5 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 * Yineth Paola Rentería Martínez 
 * Daniel Uribe
 
+Questions? Curious about the program? Please contact karen@velezreyesmas.com for technical matters.
 
