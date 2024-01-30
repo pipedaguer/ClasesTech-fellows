@@ -42,7 +42,7 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 
 [diagram here]
 
-[[Week 1]]
+[[Week 1: Welcome]]
 
 # Content and Platforms
 
