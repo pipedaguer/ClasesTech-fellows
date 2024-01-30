@@ -26,12 +26,27 @@ Click into the individual sections to learn how to use each resource (contact an
 # Syllabus
 
 ## Methodology
+The *ver+ tech fellowship* is based on several learning theories-- socratic methods, project based learning (PBL), inquiry based learning, and in particular, an integration of self-awareness, mindset, and skills development.
+
+We will take advantage of various learning spaces each week:
+* A synchronous ~2 hour seminar with the entire cohort + staff. These will be conducted on Zoom.
+* Assigned _home groups_ comprised of 4 fellows each. Home groups will receive their own occasional engineering deliverables and relational practice assignments
+* Individual assignments and practice. These will largely consist of coding practice on platforms like HackerRank, larger deployment projects, worksheets, and assigned reading/content
+* Office hours with engineers, and psychosocial support
+* English tutoring with __
+
+Below, we will update the syllabus on a rolling basis. The following will be provided here:
+* Assignments, reading, and expectations for next week uploaded on the day of the seminar
+* Open-sourced summary of each seminar 1 week after the session has taken place
+* Updates to our content library (feel free to suggest helpful articles and resources as you come across them!)
 
 # Content and Platforms
 
 Slack
-Google Calendar
+Google Calendar 
 LeetCode/HackerRank
+Key Frameworks
+Library
 Handbook
 
 # Your Team
