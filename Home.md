@@ -11,7 +11,7 @@ This is the source of truth for the entire program. Please consult this frequent
 
 | Platform | What | Link |
 | --- | --- | --- |
-| Slack | All announcements, coordination, asks for help, conversations | - |
+| Slack | All announcements, coordination, asks for help, conversations | [Link](vertechfellowship.slack.com) |
 | Google Calendar | All invites to seminars, events, office hours | [Link](https://calendar.google.com/calendar/u/0?cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) |
 | HackerRank | Coding practice, assignments will take place here | - |
 | Content Library | Helpful and assigned resources | - |
