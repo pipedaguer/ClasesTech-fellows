@@ -12,7 +12,7 @@ This is the source of truth for the entire program. Please consult this frequent
 | Platform | What | Link |
 | --- | --- | --- |
 | Slack | All announcements, coordination, asks for help, conversations | - |
-| Google Calendar | All invites to seminars, events, office hours | - |
+| Google Calendar | All invites to seminars, events, office hours | [Link](https://calendar.google.com/calendar/u/0?cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) |
 | HackerRank | Coding practice, assignments will take place here | - |
 | Content Library | Helpful and assigned resources | - |
 | Handbook | All the policies for this cohort | - |
@@ -34,7 +34,7 @@ Every week we will offer ~10 total office hours for synchronous technical suppor
 
 Please note it is REQUIRED that you attend at least 1 hour of office hours before February 26th. 
 
-The available hours are on the fellowship Google Calendar link in the <color> color.
+The available hours are on the fellowship [Google Calendar link](https://calendar.google.com/calendar/u/0?cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) in the GREEN color.
 
 ### Community Managers [CM]
 
