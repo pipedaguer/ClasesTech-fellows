@@ -40,6 +40,10 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 * Open-sourced summary of each seminar 1 week after the session has taken place
 * Updates to our content library (feel free to suggest helpful articles and resources as you come across them!)
 
+[diagram here]
+
+[[Week 1]]
+
 # Content and Platforms
 
 Slack
