@@ -22,6 +22,7 @@ Click into the individual sections to learn how to use each resource (contact an
 # Fellows
 
 ## Home Groups
+These are your _assigned_ home groups. They are subject to change in March. We will be using home groups to conduct certain activities during the seminars, and 
 
 # Syllabus
 
@@ -42,7 +43,10 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 
 [diagram here]
 
-[[Week 1: Welcome]]
+| Week      | Date | Seminar Materials | Assignments | Toolkit |
+| ----------- | ----------- | ----------- | ----------- |----------- |
+| 1      | Feb 10 2024   | Coming Soon! | Coming Soon! | [[ Week 1: Welcome ]] |
+
 
 # Content and Platforms
 
