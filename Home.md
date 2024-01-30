@@ -78,6 +78,9 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 * Scott Maher
 * Oscar Peña
 * Rodulfo Prieto
+* Jadver Hurtado
+* Diego Felipe Gallo Garcia
+* Juan Jose Rojas
 * Otto Fernandes
 * Yineth Paola Rentería Martínez 
 * Daniel Uribe
