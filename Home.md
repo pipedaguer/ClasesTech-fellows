@@ -26,9 +26,15 @@ Click into the individual sections to learn how to use each resource (contact an
 
 Our resident space holder is Debora Rebecchi. She will be offering at least 5 hours of psychosocial therapeutic support through office hours every week. You can schedule with her here at her Calendly link.
 
-Please note it is REQUIRED that you schedule an intake session with her before February 21st. But on an ongoing basis, we encourage you to use this support system often.
+Please note it is REQUIRED that you schedule an intake session with her before February 26th. But on an ongoing basis, we encourage you to use this support system often.
 
 ### Engineers in Residence [EIR]
+
+Every week we will offer ~10 total office hours for synchronous technical support. Please refer to the handbook for guidelines about how and when to use this space. These office hours are not necessarily individual-- whoever shows up at at a given time will be attended to by the EIR in a group setting.
+
+Please note it is REQUIRED that you attend at least 1 hour of office hours before February 26th. 
+
+The available hours are on the fellowship Google Calendar link in the <color> color.
 
 ### Community Managers [CM]
 
