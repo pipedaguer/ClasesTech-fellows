@@ -6,8 +6,8 @@ This is the source of truth for the entire program. Please consult this frequent
 
 # Helpful Links
 
-Zoom Link
-Key Mindsets and Frameworks
+* Zoom Link
+* Key Mindsets and Frameworks
 
 | Platform | What | Link |
 | --- | --- | --- |
@@ -55,17 +55,6 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 | Week      | Date | Seminar Materials | Assignments | Toolkit |
 | ----------- | ----------- | ----------- | ----------- |----------- |
 | 1      | Feb 10 2024   | Coming Soon! | Coming Soon! | [[ Week 1: Welcome ]] |
-
-
-# Content and Platforms
-
-| Platform | What | Link |
-| --- | --- | --- |
-| Slack | All announcements, coordination, asks for help, conversations | - |
-| Google Calendar | All invites to seminars, events, office hours | - |
-| HackerRank | Coding practice, assignments will take place here | - |
-| Content Library | Helpful and assigned resources | - |
-| Handbook | All the policies for this cohort | - |
 
 # Your Team
 
