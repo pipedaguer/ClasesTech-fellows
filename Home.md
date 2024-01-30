@@ -4,10 +4,19 @@ This is a _living container_ for all the content, instructions, and methodology 
 
 This is the source of truth for the entire program. Please consult this frequently to look for updates to the syllabus, assignments, deadlines, access to new platforms, scheduling, and artifacts from the seminars. 
 
-# Helpful Pages
+# Helpful Links
 
-Google Calendar
 Zoom Link
+Key Mindsets and Frameworks
+
+| Platform | What | Link |
+| --- | --- | --- |
+| Slack | All announcements, coordination, asks for help, conversations | - |
+| Google Calendar | All invites to seminars, events, office hours | - |
+| HackerRank | Coding practice, assignments will take place here | - |
+| Content Library | Helpful and assigned resources | - |
+| Handbook | All the policies for this cohort | - |
+
 
 ## Support
 
@@ -50,12 +59,13 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 
 # Content and Platforms
 
-Slack
-Google Calendar 
-LeetCode/HackerRank
-Key Frameworks
-Library
-Handbook
+| Platform | What | Link |
+| --- | --- | --- |
+| Slack | All announcements, coordination, asks for help, conversations | - |
+| Google Calendar | All invites to seminars, events, office hours | - |
+| HackerRank | Coding practice, assignments will take place here | - |
+| Content Library | Helpful and assigned resources | - |
+| Handbook | All the policies for this cohort | - |
 
 # Your Team
 
