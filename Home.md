@@ -86,7 +86,7 @@ These are your _assigned_ home groups. They are subject to change in March. We w
 * [Rodulfo Prieto](https://www.linkedin.com/in/rodulfoprieto/), curriculum designer
 * [Jadver Hurtado](https://www.linkedin.com/in/jadverhurtado/), scribe
 * [Diego Felipe Gallo Garcia](https://www.linkedin.com/in/difega/), scribe
-* Juan Jose Rojas, scribe
+* [Juan Jose Rojas](https://www.linkedin.com/in/juan-jose-rojas), scribe
 * [Yineth Paola Rentería Martínez](https://www.linkedin.com/in/yineth-paola-renter%C3%ADa-mart%C3%ADnez-0a2071138/), operations
 * [Daniel Uribe](https://www.linkedin.com/in/danieluribevilla/), inspirer
 
