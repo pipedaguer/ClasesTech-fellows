@@ -76,7 +76,7 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 * [Maribel Corrales](https://www.linkedin.com/in/maribelcorrales/), lead & designer
 * [Debora Rebecchi](https://www.linkedin.com/in/deborarebecchi/), facilitator & psychosocial space holder
 * Karen Sun, nerd
-* Pablo Velasquez, head EIR
+* [Pablo Velasquez](http://pablovem.com), head EIR
 * [David Parra](https://www.linkedin.com/in/davidc-parrar/), EIR
 * [Daniela Varela Tabares](https://www.linkedin.com/in/daniela-varela-b69799169/), EIR
 * [Felipe Costa](https://www.linkedin.com/in/fecosta/), technical community manager
