@@ -73,21 +73,21 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 
 # Your Team
 
-* Maribel Corrales
-* Debora Rebecchi
-* Karen Sun
-* Pablo Velasquez
-* Felipe Costa
-* Melissa Simplicio
-* Scott Maher
-* Oscar Peña
-* Rodulfo Prieto
-* Jadver Hurtado
-* Diego Felipe Gallo Garcia
-* Juan Jose Rojas
-* Otto Fernandes
-* Yineth Paola Rentería Martínez 
-* Daniel Uribe
+* [Maribel Corrales](https://www.linkedin.com/in/maribelcorrales/), lead & designer
+* [Debora Rebecchi](https://www.linkedin.com/in/deborarebecchi/), facilitator & psychosocial space holder
+* Karen Sun, nerd
+* Pablo Velasquez, head EIR
+* [David Parra](https://www.linkedin.com/in/davidc-parrar/), EIR
+* [Felipe Costa](https://www.linkedin.com/in/fecosta/), technical community manager
+* [Melissa Simplício](https://www.linkedin.com/in/melissa-simpl%C3%ADcio/), head scribe & community manager
+* [Scott Maher](https://www.linkedin.com/in/s-maher/), technical process designer & EIR
+* [Oscar Peña](https://www.linkedin.com/in/oscar-pena-cabra/), curriculum designer & EIR
+* [Rodulfo Prieto](https://www.linkedin.com/in/rodulfoprieto/), curriculum designer
+* [Jadver Hurtado](https://www.linkedin.com/in/jadverhurtado/), scribe
+* [Diego Felipe Gallo Garcia](https://www.linkedin.com/in/difega/), scribe
+* Juan Jose Rojas, scribe
+* [Yineth Paola Rentería Martínez](https://www.linkedin.com/in/yineth-paola-renter%C3%ADa-mart%C3%ADnez-0a2071138/), operations
+* [Daniel Uribe](https://www.linkedin.com/in/danieluribevilla/), inspirer
 
 Questions? Curious about the program? Please contact karen@velezreyesmas.com for technical matters.
 
