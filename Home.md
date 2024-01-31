@@ -17,10 +17,9 @@ This is the source of truth for the entire program. Please consult this frequent
 | Content Library | Helpful and assigned resources | - |
 | Handbook | All the policies for this cohort | - |
 
-
 ## Support
 
-Click into the individual sections to learn how to use each resource (availability and scheduling).
+We have three primary teams who will be actively supporting your journey through Slack, office hours, and facilitation.
 
 ### Psychosocial
 
@@ -41,11 +40,6 @@ The available hours are on the fellowship [Google Calendar link](https://calenda
 Your community managers will be present and organizing on Slack! They will play the following roles:
 * Pablo Velasquez & Felipe Costa will be monitoring the #technical channel for questions with a ~24 hr response turnaround time. They will also review and give feedback on some of your assignments!
 * Melissa Simplício will be moderating most other channels include #general, #random, and more. She will also be checking in with the home groups to see how the dynamics and learning is progressing
-
-# Fellows
-
-## Home Groups
-These are your _assigned_ home groups. They are subject to change in March. We will be using home groups to conduct certain activities during the seminars, and 
 
 # Syllabus
 
@@ -71,6 +65,11 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 | ----------- | ----------- | ----------- | ----------- |----------- |
 | 1 :star:      | Feb 10 2024   | Coming Soon! | Coming Soon! | [[ Week 1: Welcome ]] |
 | 2      | Feb 17 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+
+# Fellows
+
+## Home Groups
+These are your _assigned_ home groups. They are subject to change in March. We will be using home groups to conduct certain activities during the seminars, and 
 
 # Your Team
 
