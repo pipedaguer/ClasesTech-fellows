@@ -78,6 +78,7 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 * Karen Sun, nerd
 * Pablo Velasquez, head EIR
 * [David Parra](https://www.linkedin.com/in/davidc-parrar/), EIR
+* [Daniela Varela Tabares](https://www.linkedin.com/in/daniela-varela-b69799169/), EIR
 * [Felipe Costa](https://www.linkedin.com/in/fecosta/), technical community manager
 * [Melissa Simplício](https://www.linkedin.com/in/melissa-simpl%C3%ADcio/), head scribe & community manager
 * [Scott Maher](https://www.linkedin.com/in/s-maher/), technical process designer & EIR
