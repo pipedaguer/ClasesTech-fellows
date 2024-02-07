@@ -47,7 +47,7 @@ Your community managers will be present and organizing on Slack! They will play 
 The *ver+ tech fellowship* is based on several learning theories-- socratic methods, project based learning (PBL), inquiry based learning, and in particular, an integration of self-awareness, mindset, and skills development.
 
 We will take advantage of various learning spaces each week:
-* A synchronous ~2 hour seminar with the entire cohort + staff. These will be conducted on Zoom.
+* A synchronous ~2 hour seminar with the entire cohort + staff. These will be conducted on Zoom (link above) and usually start at 8am COL.
 * Assigned _home groups_ comprised of 4 fellows each. Home groups will receive their own occasional engineering deliverables and relational practice assignments
 * Individual assignments and practice. These will largely consist of coding practice on platforms like HackerRank, larger deployment projects, worksheets, and assigned reading/content
 * Office hours with engineers, and psychosocial support
