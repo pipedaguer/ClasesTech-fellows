@@ -65,6 +65,15 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 | ----------- | ----------- | ----------- | ----------- |----------- |
 | 1 :star:      | Feb 10 2024   | Coming Soon! | Coming Soon! | [[ Week 1: Welcome ]] |
 | 2      | Feb 17 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 3      | Feb 24 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 4      | Mar 9 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 5      | Mar 16 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 6      | Apr 6 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 7      | Apr 13-14 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 8      | Apr 20 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 9      | May 4 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 10      | May 11 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
+| 11      | May 18 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
 
 # Fellows
 
