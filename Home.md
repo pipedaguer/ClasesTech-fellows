@@ -22,7 +22,7 @@ This is the source of truth for the entire program. Please consult this frequent
 
 We have three primary teams who will be actively supporting your journey through Slack, office hours, and facilitation.
 
-### Psychosocial
+### Psychosocial [PSY]
 
 Our resident space holder is Debora Rebecchi. She will be offering at least 5 hours of psychosocial therapeutic support through office hours every week. You can schedule with her here at her [Calendly link](https://calendly.com/debora-rebecchi/vermastechfellow).
 
