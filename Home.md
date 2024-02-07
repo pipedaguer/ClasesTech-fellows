@@ -24,7 +24,7 @@ We have three primary teams who will be actively supporting your journey through
 
 ### Psychosocial
 
-Our resident space holder is Debora Rebecchi. She will be offering at least 5 hours of psychosocial therapeutic support through office hours every week. You can schedule with her here at her Calendly link.
+Our resident space holder is Debora Rebecchi. She will be offering at least 5 hours of psychosocial therapeutic support through office hours every week. You can schedule with her here at her [Calendly link](https://calendly.com/debora-rebecchi/vermastechfellow).
 
 Please note it is REQUIRED that you schedule an intake session with her before February 26th. But on an ongoing basis, we encourage you to use this support system often.
 
