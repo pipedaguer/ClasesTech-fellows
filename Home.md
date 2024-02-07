@@ -16,7 +16,7 @@ This is the source of truth for the entire program. Please consult this frequent
 | Psychosocial Support | Calendly to select times to meet with Deb | [Link](https://calendly.com/debora-rebecchi/vermastechfellow) |
 | HackerRank | Coding practice, assignments will take place here | - |
 | Content Library | Helpful and assigned resources | - |
-| Handbook | All the policies for this cohort | - |
+| Handbook | All the policies for this cohort | [Link](https://docs.google.com/document/d/1hTCE1AHz7O6JXMpzpEFl6U_z5iTaGnN6VnfC3kasRjw/edit?usp=sharing) |
 
 ## Support
 
