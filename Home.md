@@ -13,6 +13,7 @@ This is the source of truth for the entire program. Please consult this frequent
 | --- | --- | --- |
 | Slack | All announcements, coordination, asks for help, conversations | [Link](vertechfellowship.slack.com) |
 | Google Calendar | All invites to seminars, events, office hours | [Link](https://calendar.google.com/calendar/u/0?cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) |
+| Psychosocial Support | Calendly to select times to meet with Deb | [Link](https://calendly.com/debora-rebecchi/vermastechfellow) |
 | HackerRank | Coding practice, assignments will take place here | - |
 | Content Library | Helpful and assigned resources | - |
 | Handbook | All the policies for this cohort | - |
