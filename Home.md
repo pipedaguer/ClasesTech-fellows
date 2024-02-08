@@ -30,11 +30,21 @@ Please note it is REQUIRED that you schedule an intake session with her before F
 
 ### Engineers in Residence [EIR]
 
-Every week we will offer ~10 total office hours for synchronous technical support. Please refer to the handbook for guidelines about how and when to use this space. These office hours are not necessarily individual-- whoever shows up at at a given time will be attended to by the EIR in a group setting.
+Every week we will offer ~10 total office hours for synchronous technical support. Please refer to the handbook for guidelines about how and when to use this space. These office hours are not necessarily individual -- whoever shows up at at a given time will be attended to by the EIR in a group setting.
 
 Please note it is REQUIRED that you attend at least 1 hour of office hours before February 26th. 
 
 The available hours are on the fellowship [Google Calendar link](https://calendar.google.com/calendar/u/0?cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) in the GREEN color.
+
+Each EIR office hour is structured in the event title with the following syntax:
+```
+[EIR OH] <name> (<skills>) {<language>}
+```
+* the `name` is mandatory since this identifies who is the EIR in charge of the office hour.
+* the `skills` might change depending on the requirements for each week. 
+* the `language` will have an abbreaviation and in case of being more than one language, they will be structured as follows:  {`<language>`, `<language>`}. _For example:_ `{EN, PT}`
+
+second! As we mentioned, could you update the EIR section here with a little bit of an explanation about how to recognize the EIR office hours? And the format of the title? I already took some screenshots just in case it would be helpful
 
 ### Community Managers [CM]
 
