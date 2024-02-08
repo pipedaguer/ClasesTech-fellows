@@ -79,7 +79,29 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 # Fellows
 
 ## Home Groups
-These are your _assigned_ home groups. They are subject to change in March. We will be using home groups to conduct certain activities during the seminars, and 
+Home groups are assigned groups of ~4 fellows who we hope will be fostering a closer social and technical collaboration with each other! This group will serve several purposes:
+1. Our home groups are about the size of an "engineering squad" in the software industry, allowing you to take on different roles to complete assignments and learn how to work within that kind of team context
+2. A safe, more intimate space to learn, practice, get feedback, and develop relationally with other fellows
+3. Friendship!
+
+These are your _assigned_ home groups, but they are subject to change in March. We will also be using home groups to conduct activities during the seminar-- more information coming soon!
+
+| Group      | Who |
+| ---      | --- |
+| 0     | Maria Fernanda Palencia Caceres
+          David Castrillón Vallejo |
+| 1     | Juan Andres Bueno Ramirez | 
+| 2     | Juan Felipe Forero |
+| 3.    | Juan Jacobo Garcia |
+| 4     | Sergio Franco |
+| 5     | Camilo Campaz Jimenez |
+| 6     | Robinson Brito |
+| 7.    | Marlon Calle Areiza |
+| 8     | Gabriel Suarez |
+| 9.    | Mateo Vasco |
+
+
+
 
 # Your Team
 
