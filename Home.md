@@ -88,8 +88,7 @@ These are your _assigned_ home groups, but they are subject to change in March. 
 
 | Group      | Who |
 | ---      | --- |
-| 0     | Maria Fernanda Palencia Caceres__
-David Castrillón Vallejo |
+| 0     | Maria Fernanda Palencia Caceres \ David Castrillón Vallejo |
 | 1     | Juan Andres Bueno Ramirez | 
 | 2     | Juan Felipe Forero |
 | 3.    | Juan Jacobo Garcia |
