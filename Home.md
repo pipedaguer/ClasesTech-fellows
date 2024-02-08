@@ -88,16 +88,16 @@ These are your _assigned_ home groups, but they are subject to change in March. 
 
 | Group      | Who |
 | ---      | --- |
-| 0     | Maria Fernanda Palencia Caceres \ David Castrillón Vallejo |
-| 1     | Juan Andres Bueno Ramirez | 
-| 2     | Juan Felipe Forero |
-| 3.    | Juan Jacobo Garcia |
-| 4     | Sergio Franco |
-| 5     | Camilo Campaz Jimenez |
-| 6     | Robinson Brito |
-| 7.    | Marlon Calle Areiza |
-| 8     | Gabriel Suarez |
-| 9.    | Mateo Vasco |
+| 0   | Maria Fernanda Palencia Caceres - David Castrillón Vallejo - Estefania Mazo Uribe - Maria Camila Recuero Severiche |
+| 1   | Juan Andres Bueno Ramirez - Juan Sebastian Diaz Sanchez - Miller Andres Ostos Castro - Jonattan Infante Vargas | 
+| 2   | Juan Felipe Forero - Juan Cortes - Mateo Olaya Aricapa - Oscar David Rojas Pardo |
+| 3.  | Juan Jacobo Garcia - Juan Andres Bueno Ramirez - Daniel Ruiz - Miguel Castellanos |
+| 4   | Sergio Franco - Julian Orozco - José Fernando Restrepo Sánchez |
+| 5   | Camilo Campaz Jimenez - Felipe Rodriguez Angel - Luis Pereira - Julian Rodriguez |
+| 6   | Robinson Brito - Julian Andres Mendoza Castro - Juan Esteban Rozo Mendez - Sergio Caro |
+| 7.  | Marlon Calle Areiza - David F Castellanos Saavedra - Angel David Brand Londoño - Carlos Luis Forgiony Guerrero |
+| 8   | Gabriel Suarez - Andres Rocha - David Santiago Ocampo Nieto - Jesus Vela |
+| 9.  | Mateo Vasco - Julian Esteban Ramírez Morales - Bryan Chiquito - Diego Vargas |
 
 
 
