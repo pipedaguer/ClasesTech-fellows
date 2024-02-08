@@ -42,7 +42,7 @@ Each EIR office hour is structured in the event title with the following syntax:
 ```
 * the `name` is mandatory since this identifies who is the EIR in charge of the office hour.
 * the `skills` might change depending on the requirements for each week. 
-* the `language` will have an abbreaviation and in case of being more than one language, they will be structured as follows:  {`<language>`, `<language>`}. _For example:_ `{EN, PT}`
+* the `language` will have an abbreviation and in case of being more than one language, they will be structured as follows:  {`<language>`, `<language>`}. _For example:_ `{EN, PT}`
 
 second! As we mentioned, could you update the EIR section here with a little bit of an explanation about how to recognize the EIR office hours? And the format of the title? I already took some screenshots just in case it would be helpful
 
