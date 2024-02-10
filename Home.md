@@ -59,7 +59,7 @@ We will take advantage of various learning spaces each week:
 * Assigned _home groups_ comprised of 4 fellows each. Home groups will receive their own occasional engineering deliverables and relational practice assignments
 * Individual assignments and practice. These will largely consist of coding practice on platforms like HackerRank, larger deployment projects, worksheets, and assigned reading/content
 * Office hours with engineers, and psychosocial support
-* English tutoring with __
+* English tutoring with a partner program-- look in the #english_learning channel for updates
 
 Below, we will update the syllabus on a rolling basis. The following will be provided here:
 * Assignments, reading, and expectations for next week uploaded on the day of the seminar
