@@ -71,7 +71,7 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 ## Artifacts
 | Module      | Date | Seminar Materials | Assignments | Toolkit |
 | ----------- | ----------- | ----------- | ----------- |----------- |
-| 1 :star:      | Feb 10 2024   | Coming Soon! | Coming Soon! | [[ Week 1: Welcome ]] |
+| 1 :star:      | Feb 10 2024   | Coming Soon! | [Link](https://github.com/VelezReyes/tech-fellows-col-2024/wiki/Assignments#week-1---assignments) | Coming Soon! |
 | 2      | Feb 17 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
 | 3      | Feb 24 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
 | 4      | Mar 9 2024   | Coming Soon! | Coming Soon! | [[ TBD ]] |
