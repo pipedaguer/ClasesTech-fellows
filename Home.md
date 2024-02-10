@@ -98,7 +98,7 @@ These are your _assigned_ home groups, but they are subject to change in March. 
 | 0   | Maria Fernanda Palencia Caceres - David Castrillón Vallejo - Estefania Mazo Uribe - Maria Camila Recuero Severiche |
 | 1   | Juan Andres Bueno Ramirez - Juan Sebastian Diaz Sanchez - Miller Andres Ostos Castro - Jonattan Infante Vargas | 
 | 2   | Juan Felipe Forero - Juan Cortes - Mateo Olaya Aricapa - Oscar David Rojas Pardo |
-| 3.  | Juan Jacobo Garcia - Juan Andres Bueno Ramirez - Daniel Ruiz - Miguel Castellanos |
+| 3.  | Juan Jacobo Garcia - Daniel Ruiz - Miguel Castellanos |
 | 4   | Sergio Franco - Julian Orozco - José Fernando Restrepo Sánchez |
 | 5   | Camilo Campaz Jimenez - Felipe Rodriguez Angel - Luis Pereira - Julian Rodriguez |
 | 6   | Robinson Brito - Julian Andres Mendoza Castro - Juan Esteban Rozo Mendez - Sergio Caro |
