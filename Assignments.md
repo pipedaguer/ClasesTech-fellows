@@ -4,7 +4,7 @@ The goal of this week is twofold:
 1. to start your preparation for the industrial unified test at the end of the month which requires reinforcement of common fullstack technologies. This week, we will focus on Typescript and SQL.
 2. to start developing your understanding of... why you're here!
 
-## Glimpsing yourself [~1 hour]
+## Cultivating Meaning [~1 hour]
 
 We can't wait to get to know each of you!!! And part of that process is understanding where you come from, and why you're here. 
 
