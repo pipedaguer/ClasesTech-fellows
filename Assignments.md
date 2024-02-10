@@ -46,3 +46,12 @@ For this section, please brush up on SQL if you are not very familiar with it in
 ### ORM - SQLAlchemy [~5 hours]
 * [Tutorial with examples](https://www.datacamp.com/tutorial/sqlalchemy-tutorial-examples)
 
+# Unified Test
+
+You will be taking a unified coding test (~ 1 hour) the last week of February as a form of maintaining your place in the program! What we can share right now is that this test will cover the following:
+* Typescript
+* Python
+* SQL
+* API interfaces
+* ORM concepts
+
