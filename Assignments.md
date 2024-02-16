@@ -113,7 +113,7 @@ For this section, please brush up on SQL if you are not very familiar with it in
 
 # Unified Test
 
-You will be taking a unified coding test (~ 1 hour) the last week of February as a form of maintaining your place in the program! What we can share right now is that this test will cover the following:
+You will be taking a unified coding test (~ 1 hour) the 1st week of March as a form of maintaining your place in the program! What we can share right now is that this test will cover the following:
 * Typescript
 * Python
 * SQL
