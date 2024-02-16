@@ -2,7 +2,7 @@
 
 ## [HOME GROUP] Fullstack Application with Real World SWE
 
-As a home group, you will have until March 1st, 9:00pm COL to complete several milestones of a fullstack application together! Please read the assignment brief in detail feel free to ask questions in #technical for followups.
+As a home group, you will have until March 1st, 9:00pm COL to complete several milestones of a fullstack application together! Please read the [assignment](https://docs.google.com/document/d/1BNnUUI05_Ll2oFdM_4Zz0ARlVaGtGn0WL-m1wsVZ4G0/edit) in detail feel free to ask questions in #technical for followups.
 
 ## [INDIVIDUAL] TypeScript, Python and Data
 
