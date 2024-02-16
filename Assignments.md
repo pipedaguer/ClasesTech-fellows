@@ -24,20 +24,20 @@ For the following week we selected 10 exercises with medium level from **Exercis
 | 10 | simple-cipher | https://exercism.org/tracks/typescript/exercises/simple-cipher
 
 ## Python practice
-10 exercises from exerscism platform
+10 exercises from Exercism platform
 
-| name | link
--- | -- | --
-1 | all-your-base | https://exercism.org/tracks/python/exercises/all-your-base
-2 | minesweeper | https://exercism.org/tracks/python/exercises/minesweeper
-3 | spiral-matrix | https://exercism.org/tracks/python/exercises/spiral-matrix
-4 | variable-length-quantity | https://exercism.org/tracks/python/exercises/variable-length-quantity
-5 | change | https://exercism.org/tracks/python/exercises/change
-6 | killer-sudoku-helper | https://exercism.org/tracks/python/exercises/killer-sudoku-helper
-7 | rail-fence-cipher | https://exercism.org/tracks/python/exercises/rail-fence-cipher
-8 | palindrome-products | https://exercism.org/tracks/python/exercises/palindrome-products
-9 | tournament | https://exercism.org/tracks/python/exercises/tournament
-10 | food-chain | https://exercism.org/tracks/python/exercises/food-chain
+| | name | link
+| -- | -- | --
+| 1 | all-your-base | https://exercism.org/tracks/python/exercises/all-your-base
+| 2 | minesweeper | https://exercism.org/tracks/python/exercises/minesweeper
+| 3 | spiral-matrix | https://exercism.org/tracks/python/exercises/spiral-matrix
+| 4 | variable-length-quantity | https://exercism.org/tracks/python/exercises/variable-length-quantity
+| 5 | change | https://exercism.org/tracks/python/exercises/change
+| 6 | killer-sudoku-helper | https://exercism.org/tracks/python/exercises/killer-sudoku-helper
+| 7 | rail-fence-cipher | https://exercism.org/tracks/python/exercises/rail-fence-cipher
+|8 | palindrome-products | https://exercism.org/tracks/python/exercises/palindrome-products
+|9  | tournament | https://exercism.org/tracks/python/exercises/tournament
+|10 | food-chain | https://exercism.org/tracks/python/exercises/food-chain
 
 ### Resources
 - Recap
