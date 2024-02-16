@@ -11,17 +11,17 @@ For the following week we selected 10 exercises with medium level from **Exercis
 ## TypeScript practice
 10 exercises from exercism platform
 
-1 | matrix | https://exercism.org/tracks/typescript/exercises/matrix
--- | -- | --
-2 | robot-name | https://exercism.org/tracks/typescript/exercises/robot-name
-3 | grade-school | https://exercism.org/tracks/typescript/exercises/grade-school
-4 | clock | https://exercism.org/tracks/typescript/exercises/clock
-5 | secret-handshake | https://exercism.org/tracks/typescript/exercises/secret-handshake
-6 | binary-search | https://exercism.org/tracks/typescript/exercises/binary-search
-7 | linked-list | https://exercism.org/tracks/typescript/exercises/linked-list
-8 | rational-numbers | https://exercism.org/tracks/typescript/exercises/rational-numbers
-9 | atbash-cipher | https://exercism.org/tracks/typescript/exercises/atbash-cipher
-10 | simple-cipher | https://exercism.org/tracks/typescript/exercises/simple-cipher
+| 1 | matrix | https://exercism.org/tracks/typescript/exercises/matrix
+| -- | -- | --
+| 2 | robot-name | https://exercism.org/tracks/typescript/exercises/robot-name
+| 3 | grade-school | https://exercism.org/tracks/typescript/exercises/grade-school
+| 4 | clock | https://exercism.org/tracks/typescript/exercises/clock
+| 5 | secret-handshake | https://exercism.org/tracks/typescript/exercises/secret-handshake
+| 6 | binary-search | https://exercism.org/tracks/typescript/exercises/binary-search
+| 7 | linked-list | https://exercism.org/tracks/typescript/exercises/linked-list
+| 8 | rational-numbers | https://exercism.org/tracks/typescript/exercises/rational-numbers
+| 9 | atbash-cipher | https://exercism.org/tracks/typescript/exercises/atbash-cipher
+| 10 | simple-cipher | https://exercism.org/tracks/typescript/exercises/simple-cipher
 
 ## Python practice
 10 exercises from exerscism platform
