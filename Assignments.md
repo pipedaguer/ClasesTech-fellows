@@ -1,6 +1,10 @@
-# Week 2 - Assignments (All Individual)
+# Week 2 - Assignments
 
-## TypeScript, Python and Data
+## [HOME GROUP] Fullstack Application with Real World SWE
+
+As a home group, you will have until March 1st, 9:00pm COL to complete several milestones of a fullstack application together! Please read the assignment brief in detail feel free to ask questions in #technical for followups.
+
+## [INDIVIDUAL] TypeScript, Python and Data
 
 For the following week we selected 10 exercises with medium level from **Exercism** platform to practice Python, Typescript, Data structures and algorithms
 
