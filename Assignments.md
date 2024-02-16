@@ -10,9 +10,9 @@ For the following week we selected 10 exercises with medium level from **Exercis
 
 ## TypeScript practice
 10 exercises from exercism platform
-
-| 1 | matrix | https://exercism.org/tracks/typescript/exercises/matrix
+| | name | link
 | -- | -- | --
+| 1 | matrix | https://exercism.org/tracks/typescript/exercises/matrix
 | 2 | robot-name | https://exercism.org/tracks/typescript/exercises/robot-name
 | 3 | grade-school | https://exercism.org/tracks/typescript/exercises/grade-school
 | 4 | clock | https://exercism.org/tracks/typescript/exercises/clock
@@ -26,8 +26,9 @@ For the following week we selected 10 exercises with medium level from **Exercis
 ## Python practice
 10 exercises from exerscism platform
 
-1 | all-your-base | https://exercism.org/tracks/python/exercises/all-your-base
+| name | link
 -- | -- | --
+1 | all-your-base | https://exercism.org/tracks/python/exercises/all-your-base
 2 | minesweeper | https://exercism.org/tracks/python/exercises/minesweeper
 3 | spiral-matrix | https://exercism.org/tracks/python/exercises/spiral-matrix
 4 | variable-length-quantity | https://exercism.org/tracks/python/exercises/variable-length-quantity
