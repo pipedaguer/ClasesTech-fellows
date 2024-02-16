@@ -1,3 +1,63 @@
+# Week 2 - Assignments (All Individual)
+
+## TypeScript, Python and Data
+
+For the following week we selected 10 exercises with medium level from **Exercism** platform to practice Python, Typescript, Data structures and algorithms
+
+## TypeScript practice
+10 exercises from exercism platform
+
+1 | matrix | https://exercism.org/tracks/typescript/exercises/matrix
+-- | -- | --
+2 | robot-name | https://exercism.org/tracks/typescript/exercises/robot-name
+3 | grade-school | https://exercism.org/tracks/typescript/exercises/grade-school
+4 | clock | https://exercism.org/tracks/typescript/exercises/clock
+5 | secret-handshake | https://exercism.org/tracks/typescript/exercises/secret-handshake
+6 | binary-search | https://exercism.org/tracks/typescript/exercises/binary-search
+7 | linked-list | https://exercism.org/tracks/typescript/exercises/linked-list
+8 | rational-numbers | https://exercism.org/tracks/typescript/exercises/rational-numbers
+9 | atbash-cipher | https://exercism.org/tracks/typescript/exercises/atbash-cipher
+10 | simple-cipher | https://exercism.org/tracks/typescript/exercises/simple-cipher
+
+## Python practice
+10 exercises from exerscism platform
+
+1 | all-your-base | https://exercism.org/tracks/python/exercises/all-your-base
+-- | -- | --
+2 | minesweeper | https://exercism.org/tracks/python/exercises/minesweeper
+3 | spiral-matrix | https://exercism.org/tracks/python/exercises/spiral-matrix
+4 | variable-length-quantity | https://exercism.org/tracks/python/exercises/variable-length-quantity
+5 | change | https://exercism.org/tracks/python/exercises/change
+6 | killer-sudoku-helper | https://exercism.org/tracks/python/exercises/killer-sudoku-helper
+7 | rail-fence-cipher | https://exercism.org/tracks/python/exercises/rail-fence-cipher
+8 | palindrome-products | https://exercism.org/tracks/python/exercises/palindrome-products
+9 | tournament | https://exercism.org/tracks/python/exercises/tournament
+10 | food-chain | https://exercism.org/tracks/python/exercises/food-chain
+
+### Resources
+- Recap
+    - [Python tutorial](https://docs.python.org/3/tutorial/index.html)
+    - [W3Cs exercises](https://www.w3schools.com/python/default.asp)
+- [Real Python](https://realpython.com/)
+- [Corey Schafer's Python Tutorial Series](https://github.com/a0d5fe77e32b4b128ccdc90f1aeb027c?pvs=25)
+
+
+## Data structures and algorithms exercises
+5 exercises to practice data structures and algorithms
+
+- [Array manipulation](https://www.techiedelight.com/find-duplicate-element-limited-range-array/)
+- [Linked list](https://www.techiedelight.com/given-linked-list-change-sorted-order/)
+- [Binary Search](https://www.techiedelight.com/find-number-1s-sorted-binary-array/)
+- [Queue](https://www.techiedelight.com/chess-knight-problem-find-shortest-path-source-destination/)
+- [Dynamic Programming](https://www.techiedelight.com/longest-palindromic-subsequence-using-dynamic-programming/)
+
+### Resources
+- [DSA tutorials](https://www.geeksforgeeks.org/data-structures/?ref=shm)
+
+***
+
+
+
 # Week 1 - Assignments (All Individual)
 
 The goal of this week is twofold:
@@ -54,4 +114,3 @@ You will be taking a unified coding test (~ 1 hour) the last week of February as
 * SQL
 * API interfaces
 * ORM concepts
-
