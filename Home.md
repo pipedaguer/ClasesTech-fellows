@@ -127,6 +127,7 @@ These are your _assigned_ home groups, but they are subject to change in March. 
 * [Juan Jose Rojas](https://www.linkedin.com/in/juan-jose-rojas), scribe
 * [Yineth Paola Rentería Martínez](https://www.linkedin.com/in/yineth-paola-renter%C3%ADa-mart%C3%ADnez-0a2071138/), operations
 * [Daniel Uribe](https://www.linkedin.com/in/danieluribevilla/), inspirer
+* [Diego Vélez](https://www.linkedin.com/in/diegovelezg/), guest facilitator
 
 Questions? Curious about the program? Please contact karen@velezreyesmas.com for technical matters.
 
