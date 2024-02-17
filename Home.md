@@ -104,7 +104,7 @@ These are your _assigned_ home groups, but they are subject to change in March. 
 | 6   | Robinson Brito - Julian Andres Mendoza Castro - Juan Esteban Rozo Mendez - Sergio Caro |
 | 7.  | Marlon Calle Areiza - David F Castellanos Saavedra - Angel David Brand Londoño - Carlos Luis Forgiony Guerrero |
 | 8   | Gabriel Suarez - Andres Rocha - David Santiago Ocampo Nieto - Jesus Vela |
-| 9.  | Mateo Vasco - Julian Esteban Ramírez Morales - Bryan Chiquito - Diego Vargas |
+| 9.  | Mateo Vasco - Julian Esteban Ramírez Morales - Brayan Chiquito - Diego Vargas |
 
 
 
