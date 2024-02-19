@@ -119,3 +119,19 @@ You will be taking a unified coding test (~ 1 hour) the 1st week of March as a f
 * SQL
 * API interfaces
 * ORM concepts
+
+# Cloud Computing Guidelines
+
+For some of the assignments, you will be required to deploy your application to AWS, the most popular cloud computing platform.
+* We have created sub organizations in our official VelezReyes+ AWS account that correspond to each of the home groups
+* Each home group will receive a login to their organizational account in their email. Here, you can access the console, create API keys, and provision services
+* If you run into any technical problems, please contact Felipe Costa on Slack.
+
+### ⚠️  Usage Guidelines ⚠️ 
+*This part is critical*
+
+Because your applications are being created for educational purposes with minimal expected traffic/load, we expect you to NOT spend more than $50USD / mo for your projects. In fact, most of your projects can be deployed for the amount of time required for feedback for even less. We have created an alert for each home group at the $50USD threshold-- please do not exceed this.
+
+Part of engineering in the real world is managing your infrastructure costs... deploying code is not free! Additionally, this will be great input for making your architectural choices. We encourage you to use the free tier whenever possible, and look for the smallest possible deployment. 
+
+Of course, this rule will not _always_ hold, and there are things even we don't foresee! Please stay in communication with us if you expect your spend to go over the limit.
