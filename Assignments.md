@@ -7,21 +7,21 @@ Please review your fundamentals of RESTfull API design! Here are some videos and
 - [Red Hat article](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
 - [AWS article](https://aws.amazon.com/what-is/api/)
 
-### Tutorials
+**Tutorials**
 - [Create a RESTfull API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) (video)
 
-### Resources
+**Resources**
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Postman Learning Center](https://learning.postman.com/docs/introduction/overview/)
 
 ## Git
 Yes we are allll using Git all the time! However, do you _really_ know how to use Git well? In industry, you will be using Git on large teams which means understanding version control a bit more in depth past just the typical `clone`, `pull`, `push`, and `merge`. Resolving conflicts, creating patches, looking through logs... these are all thing we hope you will eventually get comfortable with!
 
-### References
+**References**
 - [Introduction videos](https://git-scm.com/videos)
 - [Documentation](https://git-scm.com/doc)
 
-### Practice
+**Practice**
 - [W3Cs git tutorial](https://www.w3schools.com/git/default.asp?remote=github) - Finish till the "Git GitHub Send Pull Request” lesson
 or
 - [Git Immersion](https://gitimmersion.com/lab_01.html) - Go till Lab 44 lesson
