@@ -21,7 +21,7 @@ Yes we are allll using Git all the time! However, do you _really_ know how to us
 - [Introduction videos](https://git-scm.com/videos)
 - [Documentation](https://git-scm.com/doc)
 
-**Practice**
+###Practice
 - [W3Cs git tutorial](https://www.w3schools.com/git/default.asp?remote=github) - Finish till the "Git GitHub Send Pull Request” lesson
 or
 - [Git Immersion](https://gitimmersion.com/lab_01.html) - Go till Lab 44 lesson
