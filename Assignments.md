@@ -1,3 +1,42 @@
+# Week 3 - Assigments
+
+## APIs
+- [Intro](https://www.youtube.com/watch?v=Q-BpqyOT3a8) (video)
+- ⭐ [Postman Article](https://www.postman.com/what-is-an-api/)
+- [Red Hat article](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
+- [AWS article](https://aws.amazon.com/what-is/api/)
+
+### Tutorials
+- [Create a RESTfull API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) (video)
+
+### Resources
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [Postman Learning Center](https://learning.postman.com/docs/introduction/overview/)
+
+## Git
+
+### References
+- [Introduction videos](https://git-scm.com/videos)
+- [Documentation](https://git-scm.com/doc)
+
+### Tutorials / Assigmentis
+- [W3Cs git tutorial](https://www.w3schools.com/git/default.asp?remote=github) - Finish till the "Git GitHub Send Pull Request” lesson
+or
+- [Git Immersion](https://gitimmersion.com/lab_01.html) - Go till Lab 44 lesson
+
+## Data structures and algorithms exercises
+5 exercises to practice data structures and algorithms
+
+
+Find maximum length sub-array having equal number of 0’s and 1’s | http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/
+-- | --
+Find the minimum or maximum of two integers without using branching | http://www.techiedelight.com/find-minimum-maximum-two-integers-without-using-branching/
+Calculate height of a binary tree \| Iterative & Recursive | http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/
+In-place rotate the matrix by 90 degrees in clock-wise direction | http://www.techiedelight.com/place-rotate-matrix-90-degrees-clock-wise-direction/
+Word Break Problem | http://www.techiedelight.com/word-break-problem/
+
+***
+
 # Week 2 - Assignments
 
 ## [HOME GROUP] Fullstack Application with Real World SWE
