@@ -1,6 +1,7 @@
 # Week 3 - Assigments
 
 ## APIs
+Please review your fundamentals of RESTfull API design! Here are some videos and articles to brush up on the language and how to think about creating APIs using best practices.
 - [Intro](https://www.youtube.com/watch?v=Q-BpqyOT3a8) (video)
 - ⭐ [Postman Article](https://www.postman.com/what-is-an-api/)
 - [Red Hat article](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
