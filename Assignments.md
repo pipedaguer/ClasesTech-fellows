@@ -1,4 +1,4 @@
-# Week 3 - Assigments
+# Week 3 - Assignments
 
 ## APIs
 Please review your fundamentals of RESTfull API design! Here are some videos and articles to brush up on the language and how to think about creating APIs using best practices.
