@@ -30,8 +30,9 @@ or
 5 exercises to practice data structures and algorithms
 
 
-Find maximum length sub-array having equal number of 0’s and 1’s | http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/
+|name | link
 -- | --
+Find maximum length sub-array having equal number of 0’s and 1’s | http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/
 Find the minimum or maximum of two integers without using branching | http://www.techiedelight.com/find-minimum-maximum-two-integers-without-using-branching/
 Calculate height of a binary tree \| Iterative & Recursive | http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/
 In-place rotate the matrix by 90 degrees in clock-wise direction | http://www.techiedelight.com/place-rotate-matrix-90-degrees-clock-wise-direction/
