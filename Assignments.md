@@ -15,6 +15,7 @@ Please review your fundamentals of RESTfull API design! Here are some videos and
 - [Postman Learning Center](https://learning.postman.com/docs/introduction/overview/)
 
 ## Git
+Yes we are allll using Git all the time! However, do you _really_ know how to use Git well? In industry, you will be using Git on large teams which means understanding version control a bit more in depth past just the typical `clone`, `pull`, `push`, and `merge`. Resolving conflicts, creating patches, looking through logs... these are all thing we hope you will eventually get comfortable with!
 
 ### References
 - [Introduction videos](https://git-scm.com/videos)
