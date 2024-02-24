@@ -22,9 +22,9 @@ Yes we are allll using Git all the time! However, do you _really_ know how to us
 - [Documentation](https://git-scm.com/doc)
 
 ### Practice
-- [W3Cs git tutorial](https://www.w3schools.com/git/default.asp?remote=github) - Finish till the "Git GitHub Send Pull Request” lesson
+- [W3Cs git tutorial](https://www.w3schools.com/git/default.asp?remote=github) - Up to and including the "Git GitHub Send Pull Request” lesson
 or
-- [Git Immersion](https://gitimmersion.com/lab_01.html) - Go till Lab 44 lesson
+- [Git Immersion](https://gitimmersion.com/lab_01.html) - Up to and including Lab 44 lesson
 
 ## Data structures and algorithms exercises
 5 exercises to practice data structures and algorithms
