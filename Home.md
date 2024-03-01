@@ -4,11 +4,6 @@ This is a _living container_ for all the content, instructions, and methodology 
 
 This is the source of truth for the entire program. Please consult this frequently to look for updates to the syllabus, assignments, deadlines, access to new platforms, scheduling, and artifacts from the seminars. 
 
-# Helpful Links
-
-* [Session Zoom Link]( https://us06web.zoom.us/j/3934576290?pwd=KytrekhMN1plR05WczJDY0xkcVllQT09)
-* Key Mindsets and Frameworks
-
 ## Support
 
 We have three primary teams who will be actively supporting your journey through Slack, office hours, and facilitation.
@@ -25,7 +20,7 @@ Every week we will offer ~10 total office hours for synchronous technical suppor
 
 Please note it is REQUIRED that you attend at least 1 hour of office hours before February 26th. Additionally, you must RSVP with a "Yes" or "Maybe" so we can understand the expected capacity of each office hour. However, please don't let that prevent you from attending an office hour that makes sense at the last minute!
 
-The available hours are on the fellowship [Google Calendar link](https://calendar.google.com/calendar/u/0?cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) in the GREEN color.
+The available hours are on the fellowship Google Calendar cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) in the GREEN color.
 
 Each EIR office hour is structured in the event title with the following syntax:
 ```
