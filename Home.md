@@ -9,21 +9,13 @@ This is the source of truth for the entire program. Please consult this frequent
 * [Session Zoom Link]( https://us06web.zoom.us/j/3934576290?pwd=KytrekhMN1plR05WczJDY0xkcVllQT09)
 * Key Mindsets and Frameworks
 
-| Platform | What | Link |
-| --- | --- | --- |
-| Slack | All announcements, coordination, asks for help, conversations | [Link](vertechfellowship.slack.com) |
-| Google Calendar | All invites to seminars, events, office hours | [Link](https://calendar.google.com/calendar/u/0?cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) |
-| Psychosocial Support | Calendly to select times to meet with Deb | [Link](https://calendly.com/debora-rebecchi/vermastechfellow) |
-| Content Library | Helpful and assigned resources | Coming Soon! |
-| Handbook | All the policies for this cohort | [Link](https://drive.google.com/file/d/1VFuL-V_sNo-LRhcrHMBQUbuAQo90idZo/view?usp=sharing) |
-
 ## Support
 
 We have three primary teams who will be actively supporting your journey through Slack, office hours, and facilitation.
 
 ### Psychosocial [PSY]
 
-Our resident space holder is Debora Rebecchi. She will be offering at least 5 hours of psychosocial therapeutic support through office hours every week. You can schedule with her here at her [Calendly link](https://calendly.com/debora-rebecchi/vermastechfellow).
+Our resident space holder is Debora Rebecchi. She will be offering at least 5 hours of psychosocial therapeutic support through office hours every week. You can schedule with her in the link you'l find pinned in the #nontechlearning slack channel
 
 Please note it is REQUIRED that you schedule an intake session with her before March 14th. But on an ongoing basis, we encourage you to use this support system often.
 
