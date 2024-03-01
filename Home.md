@@ -20,7 +20,7 @@ Every week we will offer ~10 total office hours for synchronous technical suppor
 
 Please note it is REQUIRED that you attend at least 1 hour of office hours before February 26th. Additionally, you must RSVP with a "Yes" or "Maybe" so we can understand the expected capacity of each office hour. However, please don't let that prevent you from attending an office hour that makes sense at the last minute!
 
-The available hours are on the fellowship Google Calendar cid=Y19lNjMxNzc2MzJmYTdlNzAwNzI2ZTEyZjllNmU1YWY3MTRkMTIyMTc5MWNlYzk0MGRiYjdhZDJiYmQ2OGYxOTI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) in the GREEN color.
+The available hours are on the fellowship Google Calendar in the GREEN color.
 
 Each EIR office hour is structured in the event title with the following syntax:
 ```
