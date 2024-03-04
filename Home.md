@@ -56,6 +56,8 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 [diagram here]
 
 ## Artifacts
+[Key Concepts & Frameworks](https://github.com/VelezReyes/tech-fellows-col-2024/wiki/Key)
+
 | Module      | Date | Seminar Materials | Assignments | Toolkit |
 | ----------- | ----------- | ----------- | ----------- |----------- |
 | 1      | Feb 10 2024   | [Slides](https://docs.google.com/presentation/d/1nIV-0rxQ8p7hP5ZyHbH1G4nWfefwa_mKwlfvvIB0BnU/edit?usp=sharing) | [Link](https://github.com/VelezReyes/tech-fellows-col-2024/wiki/Assignments#week-1---assignments) | Coming Soon! |
