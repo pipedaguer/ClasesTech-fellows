@@ -56,7 +56,8 @@ Below, we will update the syllabus on a rolling basis. The following will be pro
 [diagram here]
 
 ## Artifacts
-[Key Concepts & Frameworks](https://github.com/VelezReyes/tech-fellows-col-2024/wiki/Key)
+* [Key Concepts & Frameworks](https://github.com/VelezReyes/tech-fellows-col-2024/wiki/Key-Concepts-&-Frameworks)
+
 
 | Module      | Date | Seminar Materials | Assignments | Toolkit |
 | ----------- | ----------- | ----------- | ----------- |----------- |
